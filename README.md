@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mário Augusto</h1>
 <h3 align="center">Developer Full-Stack | C# | .NET | TypeScript | JAVA</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caribeedu&label=Profile%20views&color=0e75b6&style=flat" alt="caribeedu" /> </p>
-
 ## • en •
 Lover of the technology area since the first contact with the computer, and passionate about the endless possibilities, challenges and new experiences that exist.
 Developer since 2015, always seeking to renew my knowledge and create better solutions.

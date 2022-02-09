@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mário Augusto</h1>
-<h3 align="center">Developer Full-Stack | C# | .NET | TypeScript | JAVA</h3>
+<h3 align="center">Developer Full-Stack | C# | .NET | DART | TypeScript | JAVA</h3>
 
 ## • en •
 Lover of the technology area since the first contact with the computer, and passionate about the endless possibilities, challenges and new experiences that exist.
